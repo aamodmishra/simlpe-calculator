@@ -1,4 +1,10 @@
-
+.numbers{
+    background-color: aqua;
+    margin-left: 700px;
+    margin-right: 300px;
+    width: 100px;
+    text-align: center;
+}
 
 .add-btn{
     border: none;
