@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(102, 105, 99);
+}
+
 .numbers{
     background-color: aqua;
     margin-left: 700px;
